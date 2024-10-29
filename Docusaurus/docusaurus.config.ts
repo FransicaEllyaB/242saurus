@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '24saurus',
+  title: '242saurus',
   tagline: 'This is the Way!',
   favicon: 'img/favicon.ico',
 
