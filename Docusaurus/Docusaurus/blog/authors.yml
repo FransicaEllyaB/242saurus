@@ -21,21 +21,3 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
-
-FransicaEllyaB:
-  name: Fransisca Ellya Bunaren
-  title: CS Student in Universitas Indonesia
-  url: https://github.com/FransicaEllyaB
-  image_url: https://github.com/FransicaEllyaB.png
-  page: true
-  socials:
-    github: FransicaEllyaB
-
-kaachiii:
-  name: Ischika Afrilla
-  title: CS Student in Universitas Indonesia
-  url: https://github.com/kaachiii
-  image_url: https://github.com/kaachiii.png
-  page: true
-  socials:
-    github: kaachiii
